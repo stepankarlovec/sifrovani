@@ -1,0 +1,7 @@
+C:\Users\karlo\source\repos\sifrovani\sifrovani\bin\Debug\sifrovani.exe.config
+C:\Users\karlo\source\repos\sifrovani\sifrovani\bin\Debug\sifrovani.exe
+C:\Users\karlo\source\repos\sifrovani\sifrovani\bin\Debug\sifrovani.pdb
+C:\Users\karlo\source\repos\sifrovani\sifrovani\obj\Debug\sifrovani.csprojAssemblyReference.cache
+C:\Users\karlo\source\repos\sifrovani\sifrovani\obj\Debug\sifrovani.csproj.CoreCompileInputs.cache
+C:\Users\karlo\source\repos\sifrovani\sifrovani\obj\Debug\sifrovani.exe
+C:\Users\karlo\source\repos\sifrovani\sifrovani\obj\Debug\sifrovani.pdb
